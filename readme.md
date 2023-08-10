@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Gabriel Vidal...</h1>
+<h1 align="center">Hey, I'm Gabriel Vidal</h1>
 <h3 align="center">I am 16 Years Old</h3>
 
-- 🔭 Website: SoonTM
+- 🔭 Website: https://www.gabrielvidal.com
 
 - 💬 I code in **Java, JavaScript, and Kotlin**. Feel free to ask me something.
 
